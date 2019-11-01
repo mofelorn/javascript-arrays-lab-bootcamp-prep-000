@@ -27,8 +27,7 @@ function prependKitten(name) {
 }
 
 function removeLastKitten() {
-  var newArray = name.slice(0, 1)
-  return newArray
+  
 }
 
 
