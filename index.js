@@ -32,6 +32,6 @@ function removeLastKitten() {
 }
 
 function removeFirstKitten() {
-  va
+  
 }
 
