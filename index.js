@@ -30,5 +30,7 @@ function removeLastKitten(name) {
   return name.slice(0, name.length - 1)
 }
 
-function 
+function removeFirstKitten() {
+  return name.slice(1)
+}
 
